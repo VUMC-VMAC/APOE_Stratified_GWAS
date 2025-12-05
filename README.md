@@ -1,0 +1,16 @@
+# Genetic modifiers of APOE-ε4-associated cognitive decline
+
+## Abstract
+The APOE-ε4 allele is the strongest genetic risk factor for late-onset Alzheimer’s disease. However, APOE-ε4 is not deterministic, highlighting the need to identify additional genetic and environmental factors. APOE-ε4 has been linked to accelerated cognitive decline, so we sought to investigate genetic factors that modify APOE-ε4–associated cognitive decline. We conduct cross-ancestry APOE-ε4-stratified and interaction GWAS using harmonized cognitive data from 32,778 participants, including 29,354 non-Hispanic White and 3,424 non-Hispanic Black individuals. Our primary outcome is late-life cognition, measured using harmonized composite scores for memory, executive function, and language, modeled as continuous traits reflecting both normative cognitive aging and disease-related decline. We identify two genome-wide significant loci in APOE-ε4 carriers, reaching genome-wide significance for executive function. These loci also demonstrate nominal associations across the other domains, suggesting broad effects on cognition. In non-carriers, we identify a genome-wide significant association at ITGB8 restricted to executive function, and another locus associated with language. We further link these loci to SEMA6D, GRIN3A, and ITGB8 through expression and methylation databases. Post-GWAS analyses implicate additional genes including SLCO1A2, and DNAH11. Genetic correlation analyses reveal differences by APOE-ε4 status for immune-related traits, suggesting immune-related predispositions may exacerbate cognitive risk in APOE-ε4 carriers.
+
+## Software Tools
+GWAS: `PLINK`, Meta-Analyses: `GWAMA`, Gene-Set Analyses: `MAGMA`, Genetic Correlation: `GNOVA` (also see [here](https://github.com/qlu-lab/GNOVA-2.0))
+For extensive details on the cognitive harmonization process, please see this paper: [Mukherjee et al., 2022](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9898463/).
+
+## Citation
+Please cite the following paper:
+
+Alex G. Contreras; Skylar Walters; Jaclyn M. Eissman; Derek Archer; Alexandra N. Regelson; Alaina Durant; Michelle Clifton; Subhabrata Mukherjee; Michael L. Lee; Seo-Eun Choi; Phoebe Scollard; Emily H. Trittschuh; Jesse Mez; William S. Bush; Brian W. Kunkle; Carlos Cruchaga, Adam C. Naj; Katherine A. Gifford; Murat Bilgel; Amanda B. Kuzma; The Alzheimer’s Disease Neuroimaging Initiative (ADNI); Alzheimer’s Disease Genetics Consortium (ADGC); The Alzheimer’s Disease Sequencing Project (ADSP); Michael L. Cuccaro;  Margaret A. Pericak-Vance; Lindsay A. Farrer; Li-San Wang; Gerard D. Schellenberg; Jonathan L. Haines; Angela L. Jefferson; Walter A. Kukull; C. Dirk Keene; Andrew J. Saykin; Paul M. Thompson; Eden R. Martin; Marilyn S. Albert; Sterling C. Johnson; Corinne D. Engelman; Luigi Ferrucci; David A. Bennett; Lisa L. Barnes; Julie A. Schneider; Reisa A. Sperling; Susan M. Resnick; Paul K. Crane; Logan Dumitrescu; Timothy J. Hohman. Genetic modifiers of APOE-ε4-associated cognitive decline. Nature Communications. 2025.
+
+## Contact
+For questions/comments please email alex.contreras@vanderbilt.edu. For data inquiries, please email corresponding author at timothy.j.hohman@vumc.org.
